@@ -1,3 +1,4 @@
+<img width="735" height="245" alt="Image" src="https://github.com/user-attachments/assets/863957bf-b653-43a1-885e-b797c6af81cf" />
 
 <!-- estatísticas-->
 
