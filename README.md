@@ -1,10 +1,11 @@
-<img width="735" height="245" alt="Image" src="https://github.com/user-attachments/assets/863957bf-b653-43a1-885e-b797c6af81cf" />
+<img width="735" height="273" alt="Image" src="https://github.com/user-attachments/assets/863957bf-b653-43a1-885e-b797c6af81cf" />
 
 <!-- estatísticas-->
 
 ![](https://github-readme-stats.shion.dev/api?username=Tacotaconoplz1&theme=moltack&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Tacotaconoplz1&theme=moltack&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tacotaconoplz1&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img width="736" height="75" alt="Image" src="https://github.com/user-attachments/assets/de6885e0-67ca-4ce0-a5a7-c766e5ef5de4" />
 
 <!--linha-->
 ---
